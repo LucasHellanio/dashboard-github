@@ -1,0 +1,22 @@
+.card {
+    max-width: max-content;
+    margin-left: 2%;
+}
+.card-header:first-child {
+   background: white;
+}
+.card-body {
+    font-size: x-small;
+}
+.button-spacing-adjustment{
+    display: contents;
+}
+.display-cards{
+    display: flex !important;
+}
+.card-header {
+    display: flex !important;
+}
+.adjustment-card{
+    display: contents !important;
+}
