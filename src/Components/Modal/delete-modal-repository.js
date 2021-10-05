@@ -15,6 +15,7 @@ const DeleteModalRepo = ({cardObj}) => {
   // }
  const deleteRepository = () => {
   EventEmitter.dispatch('remove', cardObj);
+  toggle();
  }
   return (
     <div >
