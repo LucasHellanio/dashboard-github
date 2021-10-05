@@ -1,0 +1,23 @@
+.header-delete-styler{
+    background-color: #FFF4EC;
+    color: #B95000;
+    
+}
+.display-button-modal{
+    display: flex !important;
+}
+.delete-button-styler{
+    background-color: #B95000;
+    border-color: #B95000;
+}
+.cancel-button-styler{
+    color: #626263;
+    background-color: #ffffff;
+    border-color: #afafaf;
+}
+button, select {
+    background: white;
+    border: none;
+}
+
+
