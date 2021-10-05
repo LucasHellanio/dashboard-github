@@ -1,0 +1,27 @@
+.header-color{
+    background: white;
+    height: 64px;
+}
+.spacing-icon-github{
+    margin-left: 2em;
+}
+.spacing-header-card{
+    padding-bottom: 3%;
+}
+.size-header{
+    width: 100%;
+}
+.size-text-header{
+    width: 8%;
+    margin-left: 1%;
+}
+.spacing-filter{
+    margin-left: 1%;
+}
+.size-input-search{
+    width: 50%;
+    margin-left: 2%;
+}
+.spacing-button{
+    padding-left: 4em;
+}
